@@ -4,9 +4,7 @@
 
 ##준비사항
 *JDK(>=8)
-
 *gradle or Ingellij
-
 *Spring Boot (>=2.x)
 
 ##실행방법
